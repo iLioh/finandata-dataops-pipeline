@@ -208,7 +208,11 @@ class Warehouse:
                     row[money_field] = str(row[money_field])
             values.append(tuple(row[field] for field in fields))
         with self.connection() as connection:
-            connection.executemany(sql, values)
+            cursor = connection.cursor()
+            try:
+                cursor.executemany(sql, values)
+            finally:
+                cursor.close()
 
     def batch_snapshot(self, batch_id: str) -> dict[str, Any]:
         self.initialize()

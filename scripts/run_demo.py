@@ -70,8 +70,7 @@ def main() -> int:
     parser.add_argument("scenario", choices=sorted(SCENARIOS))
     parser.add_argument("--batch-id", help="Identificador para reejecución idempotente")
     args = parser.parse_args()
-    os.environ.setdefault("STORAGE_BACKEND", "local")
-    os.environ.setdefault("DWH_BACKEND", "local")
+ 
     # La demo es autosuficiente: ignora perfiles externos y usa orquestación
     # efímera local, nunca Prefect Cloud.
     result = run_with_local_prefect(args.scenario, args.batch_id)
