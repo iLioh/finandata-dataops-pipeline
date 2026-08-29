@@ -1,0 +1,23 @@
+[
+  {"transaction_id":"API-061","iban":"GB82WEST12345698765432","amount":"1600.00","currency":"PEN","transaction_date":"2026-08-01T11:00:00Z","branch_id":"LIM-001","channel":"MOBILE","schema_version":"1.0"},
+  {"transaction_id":"API-062","iban":"DE89370400440532013000","amount":"1625.00","currency":"USD","transaction_date":"2026-08-01T11:01:00Z","branch_id":"LIM-002","channel":"MOBILE","schema_version":"1.0"},
+  {"transaction_id":"API-063","iban":"FR1420041010050500013M02606","amount":"1650.00","currency":"PEN","transaction_date":"2026-08-01T11:02:00Z","branch_id":"LIM-003","channel":"MOBILE","schema_version":"1.0"},
+  {"transaction_id":"API-064","iban":"GB82WEST12345698765432","amount":"1675.00","currency":"USD","transaction_date":"2026-08-01T11:03:00Z","branch_id":"LIM-001","channel":"MOBILE","schema_version":"1.0"},
+  {"transaction_id":"API-065","iban":"DE89370400440532013000","amount":"1700.00","currency":"PEN","transaction_date":"2026-08-01T11:04:00Z","branch_id":"LIM-002","channel":"MOBILE","schema_version":"1.0"},
+  {"transaction_id":"API-066","iban":"FR1420041010050500013M02606","amount":"1725.00","currency":"USD","transaction_date":"2026-08-01T11:05:00Z","branch_id":"LIM-003","channel":"MOBILE","schema_version":"1.0"},
+  {"transaction_id":"API-067","iban":"GB82WEST12345698765432","amount":"1750.00","currency":"PEN","transaction_date":"2026-08-01T11:06:00Z","branch_id":"LIM-001","channel":"MOBILE","schema_version":"1.0"},
+  {"transaction_id":"API-068","iban":"DE89370400440532013000","amount":"1775.00","currency":"USD","transaction_date":"2026-08-01T11:07:00Z","branch_id":"LIM-002","channel":"MOBILE","schema_version":"1.0"},
+  {"transaction_id":"API-069","iban":"FR1420041010050500013M02606","amount":"1800.00","currency":"PEN","transaction_date":"2026-08-01T11:08:00Z","branch_id":"LIM-003","channel":"MOBILE","schema_version":"1.0"},
+  {"transaction_id":"API-070","iban":"GB82WEST12345698765432","amount":"1825.00","currency":"USD","transaction_date":"2026-08-01T11:09:00Z","branch_id":"LIM-001","channel":"MOBILE","schema_version":"1.0"},
+  {"transaction_id":"API-071","iban":"DE89370400440532013000","amount":"1850.00","currency":"PEN","transaction_date":"2026-08-01T11:10:00Z","branch_id":"LIM-002","channel":"MOBILE","schema_version":"1.0"},
+  {"transaction_id":"API-072","iban":"FR1420041010050500013M02606","amount":"1875.00","currency":"USD","transaction_date":"2026-08-01T11:11:00Z","branch_id":"LIM-003","channel":"MOBILE","schema_version":"1.0"},
+  {"transaction_id":"API-073","iban":"GB82WEST12345698765432","amount":"1900.00","currency":"PEN","transaction_date":"2026-08-01T11:12:00Z","branch_id":"LIM-001","channel":"MOBILE","schema_version":"1.0"},
+  {"transaction_id":"API-074","iban":"DE89370400440532013000","amount":"1925.00","currency":"USD","transaction_date":"2026-08-01T11:13:00Z","branch_id":"LIM-002","channel":"MOBILE","schema_version":"1.0"},
+  {"transaction_id":"API-075","iban":"FR1420041010050500013M02606","amount":"1950.00","currency":"PEN","transaction_date":"2026-08-01T11:14:00Z","branch_id":"LIM-003","channel":"MOBILE","schema_version":"1.0"},
+  {"transaction_id":"API-076","iban":"GB82WEST12345698765432","amount":"1975.00","currency":"USD","transaction_date":"2026-08-01T11:15:00Z","branch_id":"LIM-001","channel":"MOBILE","schema_version":"1.0"},
+  {"transaction_id":"API-077","iban":"DE89370400440532013000","amount":"2000.00","currency":"PEN","transaction_date":"2026-08-01T11:16:00Z","branch_id":"LIM-002","channel":"MOBILE","schema_version":"1.0"},
+  {"transaction_id":"API-078","iban":"FR1420041010050500013M02606","amount":"2025.00","currency":"USD","transaction_date":"2026-08-01T11:17:00Z","branch_id":"LIM-003","channel":"MOBILE","schema_version":"1.0"},
+  {"transaction_id":"API-079","iban":"GB82WEST12345698765432","amount":"2050.00","currency":"PEN","transaction_date":"2026-08-01T11:18:00Z","branch_id":"LIM-001","channel":"MOBILE","schema_version":"1.0"},
+  {"transaction_id":"API-080","iban":"DE89370400440532013000","amount":"2075.00","currency":"USD","transaction_date":"2026-08-01T11:19:00Z","branch_id":"LIM-002","channel":"MOBILE","schema_version":"1.0"}
+]
+

@@ -1,0 +1,2 @@
+"""Prefect tasks for FinanData."""
+

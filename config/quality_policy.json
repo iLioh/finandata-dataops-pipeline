@@ -1,0 +1,6 @@
+{
+  "max_reject_rate": 0.05,
+  "min_completeness": 0.95,
+  "max_duplicate_rate": 0.0
+}
+

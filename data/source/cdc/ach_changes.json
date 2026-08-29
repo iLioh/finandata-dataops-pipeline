@@ -1,0 +1,23 @@
+[
+  {"transaction_id":"CDC-081","iban":"FR1420041010050500013M02606","amount":"2100.00","currency":"PEN","transaction_date":"2026-08-01T12:00:00Z","branch_id":"LIM-001","channel":"ACH","schema_version":"1.0","cdc_operation":"INSERT"},
+  {"transaction_id":"CDC-082","iban":"GB82WEST12345698765432","amount":"2125.00","currency":"USD","transaction_date":"2026-08-01T12:01:00Z","branch_id":"LIM-002","channel":"ACH","schema_version":"1.0","cdc_operation":"INSERT"},
+  {"transaction_id":"CDC-083","iban":"DE89370400440532013000","amount":"2150.00","currency":"PEN","transaction_date":"2026-08-01T12:02:00Z","branch_id":"LIM-003","channel":"ACH","schema_version":"1.0","cdc_operation":"INSERT"},
+  {"transaction_id":"CDC-084","iban":"FR1420041010050500013M02606","amount":"2175.00","currency":"USD","transaction_date":"2026-08-01T12:03:00Z","branch_id":"LIM-001","channel":"ACH","schema_version":"1.0","cdc_operation":"INSERT"},
+  {"transaction_id":"CDC-085","iban":"GB82WEST12345698765432","amount":"2200.00","currency":"PEN","transaction_date":"2026-08-01T12:04:00Z","branch_id":"LIM-002","channel":"ACH","schema_version":"1.0","cdc_operation":"INSERT"},
+  {"transaction_id":"CDC-086","iban":"DE89370400440532013000","amount":"2225.00","currency":"USD","transaction_date":"2026-08-01T12:05:00Z","branch_id":"LIM-003","channel":"ACH","schema_version":"1.0","cdc_operation":"INSERT"},
+  {"transaction_id":"CDC-087","iban":"FR1420041010050500013M02606","amount":"2250.00","currency":"PEN","transaction_date":"2026-08-01T12:06:00Z","branch_id":"LIM-001","channel":"ACH","schema_version":"1.0","cdc_operation":"INSERT"},
+  {"transaction_id":"CDC-088","iban":"GB82WEST12345698765432","amount":"2275.00","currency":"USD","transaction_date":"2026-08-01T12:07:00Z","branch_id":"LIM-002","channel":"ACH","schema_version":"1.0","cdc_operation":"INSERT"},
+  {"transaction_id":"CDC-089","iban":"DE89370400440532013000","amount":"2300.00","currency":"PEN","transaction_date":"2026-08-01T12:08:00Z","branch_id":"LIM-003","channel":"ACH","schema_version":"1.0","cdc_operation":"INSERT"},
+  {"transaction_id":"CDC-090","iban":"FR1420041010050500013M02606","amount":"2325.00","currency":"USD","transaction_date":"2026-08-01T12:09:00Z","branch_id":"LIM-001","channel":"ACH","schema_version":"1.0","cdc_operation":"INSERT"},
+  {"transaction_id":"CDC-091","iban":"GB82WEST12345698765432","amount":"2350.00","currency":"PEN","transaction_date":"2026-08-01T12:10:00Z","branch_id":"LIM-002","channel":"ACH","schema_version":"1.0","cdc_operation":"INSERT"},
+  {"transaction_id":"CDC-092","iban":"DE89370400440532013000","amount":"2375.00","currency":"USD","transaction_date":"2026-08-01T12:11:00Z","branch_id":"LIM-003","channel":"ACH","schema_version":"1.0","cdc_operation":"INSERT"},
+  {"transaction_id":"CDC-093","iban":"FR1420041010050500013M02606","amount":"2400.00","currency":"PEN","transaction_date":"2026-08-01T12:12:00Z","branch_id":"LIM-001","channel":"ACH","schema_version":"1.0","cdc_operation":"INSERT"},
+  {"transaction_id":"CDC-094","iban":"GB82WEST12345698765432","amount":"2425.00","currency":"USD","transaction_date":"2026-08-01T12:13:00Z","branch_id":"LIM-002","channel":"ACH","schema_version":"1.0","cdc_operation":"INSERT"},
+  {"transaction_id":"CDC-095","iban":"DE89370400440532013000","amount":"2450.00","currency":"PEN","transaction_date":"2026-08-01T12:14:00Z","branch_id":"LIM-003","channel":"ACH","schema_version":"1.0","cdc_operation":"INSERT"},
+  {"transaction_id":"CDC-096","iban":"FR1420041010050500013M02606","amount":"2475.00","currency":"USD","transaction_date":"2026-08-01T12:15:00Z","branch_id":"LIM-001","channel":"ACH","schema_version":"1.0","cdc_operation":"INSERT"},
+  {"transaction_id":"CDC-097","iban":"GB82WEST12345698765432","amount":"2500.00","currency":"PEN","transaction_date":"2026-08-01T12:16:00Z","branch_id":"LIM-002","channel":"ACH","schema_version":"1.0","cdc_operation":"INSERT"},
+  {"transaction_id":"CDC-098","iban":"DE89370400440532013000","amount":"2525.00","currency":"USD","transaction_date":"2026-08-01T12:17:00Z","branch_id":"LIM-003","channel":"ACH","schema_version":"1.0","cdc_operation":"INSERT"},
+  {"transaction_id":"CDC-099","iban":"FR1420041010050500013M02606","amount":"2550.00","currency":"PEN","transaction_date":"2026-08-01T12:18:00Z","branch_id":"LIM-001","channel":"ACH","schema_version":"1.0","cdc_operation":"INSERT"},
+  {"transaction_id":"CDC-100","iban":"GB82WEST12345698765432","amount":"2575.00","currency":"USD","transaction_date":"2026-08-01T12:19:00Z","branch_id":"LIM-002","channel":"ACH","schema_version":"1.0","cdc_operation":"INSERT"}
+]
+
